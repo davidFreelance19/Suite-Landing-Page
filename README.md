@@ -29,8 +29,4 @@ Users should be able to:
 
 ## Author
 
-- Linkedin - [Daniel Cristea](https://www.linkedin.com/in/daniel-cristea-629069191/)
-
-- Frontend Mentor - [@gdcristea](https://www.frontendmentor.io/profile/gdcristea)
-
-- Twitter - [@gdcristea10](https://twitter.com/gdcristea10)
+- David Rodriguez Badillo
